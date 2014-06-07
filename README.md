@@ -1,4 +1,4 @@
-Intersection-Script-BRL-CAD
+Intersection of two circles BRL-CAD
 ===========================
 
 Script for intersectioning of two spheres and produce image of that intersection (.png)
